@@ -13,5 +13,6 @@
   "monospaceFontFamily": "SF Pro",
   "textFontFamily": "SF Pro",
   "interfaceFontFamily": "SF Pro",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showRibbon": true
 }

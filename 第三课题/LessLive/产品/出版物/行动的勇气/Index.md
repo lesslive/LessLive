@@ -1,7 +1,7 @@
 ---
 longform:
   format: scenes
-  title: 最小化生活
+  title: 行动的勇气
   workflow: Default Workflow
   sceneFolder: /
   scenes: []
@@ -11,4 +11,6 @@ longform:
     - 最小化生活
     - 最小化生活
     - 最小化生活
+    - 最小化生活
+    - 行动的勇气
 ---
