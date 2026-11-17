@@ -2,22 +2,25 @@
 <div align="center">
 
 <h1>LessLive</h1>
+<a href="https://github.com/lesslive"><img src="https://img.shields.io/badge/Join-LessLive-orange.svg" alt="Join LessLive"></a>
+
 
 <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg" alt="License">
 <img src="https://img.shields.io/badge/Obsidian-v1.0+-purple.svg" alt="Obsidian">
-<img src="https://img.shields.io/badge/Status-Active-green.svg" alt="Status">
-<p>用阿德勒的理论和方法改善人际关系<br>构建高质量生活圈</p>
-<strong>客户 · 同事 · 伙伴 · 朋友 · 家人 · 爱人</strong>
+
+<p><strong>生活是本金，故事是利息</strong><br>把你的生活变成人们愿意追更的故事</p>
+
 </div>
 
 
 ---
-我们把阿德勒的课题分离原则和共同体感受，用服务设计思维，设计成了一套 AI 提示词，并用这些文档组装成可以直接使用的个人笔记系统，帮助你打造高质量人际关系，构建滋养自己的生活圈。
+
+这是基于阿德勒的课题分离和共同体感受，用服务设计思维，设计的一套个人笔记系统，接入你的 AI 助手，协助你记录生活，产出故事，用来经营高质量的人际关系，构建滋养自己的生活圈。
 ## 核心特色
 把你正在推进的事告诉你的 AI 助手，可以是工作、生活、兴趣、爱好、学习……，不管多乱。最好还跟它说说你想要什么、喜欢什么、讨厌什么以及为什么……，AI 助手会用 LessLive 协助你把它们：
 
 - **【整理成一个行动计划】**：把你在不同领域的人和事，融合成一个值得他们关注并愿意参与进来的项目；
-- **【设计并推进执行方案】**：根据不同阶段设计行动策略，拆成具体做什么怎么做，推动进度并反馈结果；
+- **【设计成可执行的任务】**：根据不同阶段设计行动策略，拆成具体做什么怎么做，推动进度并反馈结果；
 - **【生成对外发布的内容】**：围绕行动策略，针对发布渠道，设计发布内容，让人们就像在看一部连续剧；
 - **【沉淀为资产下次使用】**：把实践中的结论和成果，沉淀为个人资产，下次不用重复介绍，越用越懂你。
 
@@ -34,7 +37,7 @@
 
 - 说明：也可以自行阅读仓库文档内容，理解并应用，无需 AI 协助。
 - 推荐：使用 Obsidian 管理仓库，请参考作者的[插件说明](系统服务/指南/插件说明.md)并选择安装与配置，获得更好的交互体验。
-- 声明：仓库中带 `example` 标签的文件是作者的真实实践，帮助你和 AI 助手更好的理解并实践。示例内容仅供参考，不构成任何效果保证或专业建议，使用风险自负。
+- 声明：仓库中带 `example` 标签的文件是作者的真实实践，帮助你和 AI 助手更好的理解并实践 LessLive。示例内容仅供参考，不构成任何效果保证或专业建议，使用风险自负。
 
 
 ---
@@ -52,8 +55,9 @@
 ---
 
 <div align="center">
-
-<p>Maximize the world, yet minimize living</p>
+<h2>LessLive</h2>
+— Neolab —
+<p>Distill my minimal living runtime from the maximal world.</p>
 <a href="LICENSE.md">CC BY-NC 4.0</a>
 
 </div>

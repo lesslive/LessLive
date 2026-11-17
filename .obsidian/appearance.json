@@ -1,6 +1,6 @@
 {
   "cssTheme": "Border",
-  "translucency": false,
+  "translucency": true,
   "enabledCssSnippets": [
     "多列标注",
     "签名右对齐",
