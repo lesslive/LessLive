@@ -1,7 +1,7 @@
 ---
 description: AI 助手专用-LessLive仓库全局规则
 created: 2026-10-26 星期一 10:28
-modified: 2026-11-17 星期二 08:04
+modified: 2026-11-18 星期三 08:29
 published: false
 tags: [model]
 ---
