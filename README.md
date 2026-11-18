@@ -69,8 +69,9 @@
 
 <div align="center">
 
-— LessLiveLab —
+— <strong>LessLiveLab</strong> —
 <p>Distill my minimal living runtime from the maximal world.</p>
+<p>从纷繁复杂的世界里，蒸馏出我的最小化生活</p>
 <a href="LICENSE.md">CC BY-NC 4.0</a>
 
 </div>
