@@ -4,6 +4,7 @@
 署名 - 非商业性使用 4.0 国际版（CC BY-NC 4.0）
 
 > 这是许可协议的摘要，**不是法律文本本身**。
+>
 > 完整法律原文：https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans
 
 ## 您可以自由：

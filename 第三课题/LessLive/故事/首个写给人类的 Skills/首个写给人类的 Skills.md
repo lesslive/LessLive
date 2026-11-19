@@ -1,8 +1,8 @@
 ---
 description: 将三大课题映射为人类的三大技能
 created: 2026-10-27 星期二 11:07
-modified: 2026-10-30 星期五 08:58
-published: false
+modified: 2026-11-19 星期四 10:22
+
 tags: [example]
 ---
 

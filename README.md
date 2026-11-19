@@ -8,13 +8,13 @@
 <a href="https://github.com/lesslive"><img src="https://img.shields.io/badge/Join-LessLive-orange.svg" alt="Join LessLive"></a>
 <img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-blue.svg" alt="License">
 <img src="https://img.shields.io/badge/Obsidian-v1.0+-purple.svg" alt="Obsidian">
+
 <p>— LessLive —</p>
 </div>
 
-
 ---
 
-这是一套基于阿德勒的课题分离与共同体感受、用服务设计思维打造的个人笔记系统。接入你的 AI 助手后，它会协助你记录经验、打磨产品，把过程讲成人们愿意追更的故事，收获同频的人，形成你的生活圈。
+这是一套面向普通人生存与生活的笔记系统，基于阿德勒的课题分离与共同体感受、用服务设计思维打造。接入你的 AI 助手，它会协助你记录经验、打磨产品，把过程讲成人们愿意追更的故事，收获同频的人，形成你的生活圈。
 
 ## ✨ 核心特色
 
@@ -61,7 +61,7 @@
 这是 LessLive 官方发起的第一个行动计划。你可以成为自己的生活研究员，试着把你的生活变成人们愿意追更的故事，看看能不能收获真正懂你、滋养你的朋友和伙伴，慢慢形成你的生活圈。
 
 ### 🤝 行动的勇气：让你的 AI 替你去串门
-把你的仓库同步到 LessLive 组织空间，免费备份数据，保护你的故事安全（参见[隐私政策](https://github.com/orgs/lesslive/discussions/2)），并让所有 GitHub 用户都能看到我们的故事，大家一起交流经验、探讨问题。这是属于你的生活圈。
+把你的仓库同步到 LessLive 组织空间（同步前请先排查敏感信息），免费备份数据，保护你的故事安全（参见[隐私政策](https://github.com/orgs/lesslive/discussions/2)），并让所有 GitHub 用户都能看到我们的故事，大家一起交流经验、探讨问题。这是属于你的生活圈。
 
 - [仓库广场](https://github.com/orgs/lesslive/repositories)：让你的 AI 助手访问大家的仓库，把他们的经验、方法和故事带回来讲给你听
 - [申请加入](https://github.com/orgs/lesslive/discussions/1)：让你的 AI 助手帮你把仓库也同步到组织，让更多人看到你，认识你，加入你
