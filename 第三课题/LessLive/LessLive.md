@@ -1,10 +1,10 @@
 ---
 description: LessLive 最小化生活的主张、个人研究与生活圈实践
 created: 2026-10-20 星期二 12:54
-modified: 2026-11-19 星期四 13:55
+modified: 2026-11-19 星期四 20:42
+milestone:
 
 tags: [example]
-milestone:
 sticker: lucide//bird
 ---
 
