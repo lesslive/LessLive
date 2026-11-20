@@ -1,8 +1,9 @@
 ---
+
 description: 这是 lesslive 设计者的个人触点体系，仅作参考学习
 created: 2026-10-25 星期日 07:51
-modified: 2026-11-12 星期四 10:07
-
+modified: 2026-11-20 星期五 20:37
+milestone:
 tags: [example]
 kanban-plugin: board
 sticker: lucide//align-start-horizontal
@@ -25,7 +26,7 @@ sticker: lucide//align-start-horizontal
 
 ## 转化
 
-- [x] 免费[[开源包]]可下载
+- [x] 免费开源包可下载
 
 
 ## 推荐
