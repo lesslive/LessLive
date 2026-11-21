@@ -1,8 +1,7 @@
 ---
-
 description: 这是 lesslive 设计者的个人触点体系，仅作参考学习
 created: 2026-10-25 星期日 07:51
-modified: 2026-11-20 星期五 20:37
+modified: 2026-11-21 星期六 07:07
 milestone:
 tags: [example]
 kanban-plugin: board
