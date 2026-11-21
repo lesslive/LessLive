@@ -1,7 +1,7 @@
 ---
 description: 跟踪 LessLive 完成模拟验收、核心主张设计与官方内容准备
 created: 2026-10-25 星期日 07:51
-modified: 2026-11-21 星期六 17:01
+modified: 2026-11-21 星期六 22:58
 milestone:
 tags: [example]
 kanban-plugin: board
@@ -16,7 +16,7 @@ sticker: lucide//align-start-horizontal
 
 ## 激活
 
-- [ ] 完成 LessLive 核心主张与官方资产改编模拟
+- [x] 完成 LessLive 核心主张与官方资产改编模拟
 - [x] [[内容策略]]
 
 
