@@ -6,21 +6,13 @@
 .DS_Store
 Thumbs.db
 .trash
+.obsidian
 
-# 插件所需本地资源
-插件
+系统服务/插件/*
+!/系统服务/插件/插件.md
 
+系统服务/日记/*
+!/系统服务/日记/日记.md
 
-
-.obsidian/**
-!/.obsidian/snippets/
-!/.obsidian/community-plugins.json
-!/.obsidian/daily-notes.json
-!/.obsidian/templates.json
-!/.obsidian/hotkeys.json
-!/.obsidian/app.json
-!/.obsidian/appearance.json
-!/.obsidian/snippets/**/*
-
-
-
+AI-Note.md
+Vault.md 
